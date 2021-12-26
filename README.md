@@ -1,3 +1,12 @@
-**PLEASE STAR THIS PROJECT**
+**Website**: https://cliphd.ga
 
-![image](https://user-images.githubusercontent.com/80993711/143615409-ff1e11b5-0692-40c5-ae78-29bf4e947ed0.png)
+### FAQ
+* **What do you use to host? Is it free?**
+
+I use [netlify.com](https://netlify.com) to host and yes, it's free.
+* **Where did you get your domain?**
+
+I got my domain from [freenom.com](https://freenom.com) and it's completely free.
+
+
+**For any questions or support, DM me on Discord: cliphd#1337**
