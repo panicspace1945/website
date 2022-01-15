@@ -7,6 +7,3 @@ I use [netlify.com](https://netlify.com) to host and yes, it's free.
 * **Where did you get your domain?**
 
 I got my domain from [freenom.com](https://freenom.com) and it's completely free.
-
-
-**For any questions or support, DM me on Discord: cliphd#1337**
